@@ -1,3 +1,7 @@
+IMPORTANT NOTICE: this code has now been migrated to the atoMEC_ code. The AvAtom code has been archived, but the atoMEC_ code is under active development.
+
+.. _atoMEC: https://github.com/atomec-project/atoMEC
+
 AvAtom: KS-DFT average atom python code 
 ========================
 AvAtom is a python-based average-atom code for simulations of warm-dense matter. It uses Kohn--Sham density-functional theory, in combination with an average-atom approximation,
