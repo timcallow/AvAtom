@@ -1,4 +1,6 @@
-IMPORTANT NOTICE: this code has now been migrated to the atoMEC_ code. The AvAtom code has been archived, but the atoMEC_ code is under active development.
+IMPORTANT NOTICE
+================
+This code has now been migrated to the atoMEC_ code. The AvAtom code has been archived, but the atoMEC_ code is under active development.
 
 .. _atoMEC: https://github.com/atomec-project/atoMEC
 
